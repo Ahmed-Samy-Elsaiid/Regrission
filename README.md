@@ -1,2 +1,1 @@
-# Regrission
-Regression models
+# Regression models
